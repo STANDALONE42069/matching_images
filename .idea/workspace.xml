@@ -78,7 +78,7 @@
       <workItem from="1708810633829" duration="104000" />
       <workItem from="1709217646769" duration="543000" />
       <workItem from="1709218247006" duration="2599000" />
-      <workItem from="1709221490753" duration="1846000" />
+      <workItem from="1709221490753" duration="1945000" />
     </task>
     <servers />
   </component>
@@ -87,7 +87,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/keewi$smth.coverage" NAME="smth Coverage Results" MODIFIED="1708516385261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/keewi$widget.coverage" NAME="widget Coverage Results" MODIFIED="1709223342224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ivygame" />
+    <SUITE FILE_PATH="coverage/keewi$widget.coverage" NAME="widget Coverage Results" MODIFIED="1709223444021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ivygame" />
     <SUITE FILE_PATH="coverage/keewi$PongGame.coverage" NAME="PongGame Coverage Results" MODIFIED="1707793945176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/keewi$gameplay.coverage" NAME="gameplay Coverage Results" MODIFIED="1709222438887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ivygame" />
   </component>
